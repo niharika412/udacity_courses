@@ -1,4 +1,4 @@
-The notebook is the implementation of the final project done after Udacity's "Data Wrangling with MongoDB" Nanodegree where the following steps are performed to make the data ready for insertion into the database:
+The notebook is the implementation of the final project done after Udacity's <b>"Data Wrangling with MongoDB"</b> Nanodegree where the following steps are performed to make the data ready for insertion into the database:
 
 🎈 Data Extraction for any specific area from openstreetmap.org
 
@@ -15,5 +15,5 @@ After extracting the data, it was examined and all nodes were extracted individu
 The most active users who had contributed a large amount of times were also determined.
 Finally, the data was arranged in form of key-value pairs (python dictionaries) and then eventually converted into the .json format.
 
-🗺 map.osm = Initial raw data from source
+🗺 map.osm = Initial raw data from source,
 🗺 map.osm.json = Final wrangled data 
